@@ -1,1 +1,1 @@
-# yapay-zeka-bobi
+# yapy-zeka
